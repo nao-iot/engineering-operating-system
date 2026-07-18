@@ -1,9 +1,23 @@
 # Project Charter
 
-## Purpose
+## Background
 
-（ここに目的を書く）
+## Mission
+
+## Vision
+
+## Objectives
+
+## Success Criteria
 
 ## Scope
 
-（ここに対象を書く）
+## Out of Scope
+
+## Engineering Philosophy
+
+## Development Policy
+
+## AI Collaboration
+
+## Review Process
